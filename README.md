@@ -1,8 +1,4 @@
-# 👩‍💻 Cheryl Lin
-
-**📍 Location: Taipei, Taiwan**
-
-Welcome to my GitHub profile! I am Cheryl, an aspiring data scientist passionate about blending technology, data, and social science to create impactful solutions. Here is a peek into my skills:
+Welcome to my GitHub profile! I am Cheryl, an aspiring data scientist based in Taiwan, passionate about blending technology, data, and social science to create impactful solutions. Here is a peek into my skills
 
 ## 🛠 Computer Language
 - ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-239120?logo=sql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%232E7AB?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
