@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I am Cheryl, an aspiring data scientist based in T
 
 ## 📚 Education
 **National Taipei University**, Taiwan (Sep 2020 - Jun 2024) 
-- Bachelor of Business Administration with Double Specialization in Business Analytics and Information Security and Application
+- BBA with Double Specialization in Business Analytics and Information Security and Application
 
 **University of Edinburgh**, UK (Jan 2023 - Jun 2023) 
